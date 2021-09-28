@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alanjiang1205.github.io</id>
     <title>Alan&apos;s blog</title>
-    <updated>2021-09-28T12:06:29.110Z</updated>
+    <updated>2021-09-28T12:42:35.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alanjiang1205.github.io"/>
     <link rel="self" href="https://alanjiang1205.github.io/atom.xml"/>
@@ -10,4 +10,21 @@
     <logo>https://alanjiang1205.github.io/images/avatar.png</logo>
     <icon>https://alanjiang1205.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Alan&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://alanjiang1205.github.io/post/about/</id>
+        <link href="https://alanjiang1205.github.io/post/about/">
+        </link>
+        <updated>2021-09-28T12:31:02.000Z</updated>
+        <content type="html"><![CDATA[<p>昵称：Alan酱</p>
+<p>星座：金牛座</p>
+<p>爱好：动漫，游戏，二次元，法律相关（或许？</p>
+<p>生日：2001-4-24</p>
+<p>邮箱：ancarder9156@gmail.com</p>
+<p>爱玩的游戏：GTA5，文明六，群星，Muse Dash，冰与火之舞，东方天空璋，东方绯想天，东方非想天则，Fate/GO，明日方舟，碧蓝航线，公主连结，云图计划，LOL（纯新人，暗影岛摆大烂）</p>
+<p>最喜欢的女性动漫角色：两仪式</p>
+<p>最喜欢的男性动漫角色：黑桐干也</p>
+<p>大学在读法学生（知识产权方向），是只知道看直播和切片的A-SOUL团推（多看as，少看au，少被节奏带着走，眼不见心不烦；5-1=0，A-SOUL不是四人团），</p>
+]]></content>
+    </entry>
 </feed>
