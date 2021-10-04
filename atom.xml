@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alanjiang1205.github.io</id>
     <title>Alan&apos;s blog</title>
-    <updated>2021-09-26T08:27:46.767Z</updated>
+    <updated>2021-10-04T14:32:09.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alanjiang1205.github.io"/>
     <link rel="self" href="https://alanjiang1205.github.io/atom.xml"/>
@@ -11,35 +11,52 @@
     <icon>https://alanjiang1205.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Alan&apos;s blog</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://alanjiang1205.github.io/post/hello-gridea/</id>
-        <link href="https://alanjiang1205.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[这是一篇测试的日记，全都是废话一二三四（冷知识：把首页翻到底部有彩蛋）]]></title>
+        <id>https://alanjiang1205.github.io/post/zhe-shi-yi-pian-ce-shi-de-ri-ji-quan-du-shi-fei-hua-yi-er-san-si/</id>
+        <link href="https://alanjiang1205.github.io/post/zhe-shi-yi-pian-ce-shi-de-ri-ji-quan-du-shi-fei-hua-yi-er-san-si/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2021-10-01T17:53:31.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>首先呢，Happy 72nd anniversary! 这是毋庸置疑的。</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<p>得知Muse Dash和東方Project联动之后，作为一个不太入流的车车人属实激动了好长时间。当时列了个清单看看有哪些歌曲会入围：<br>
+1.Bad Apple!!（可能是车万曲同人作里面知名度最高了的吧）<br>
+2.無意識レクイエム（作为恋恋厨希望这首歌曲入围那自然是掺了点私心的）<br>
+3.チルノのパーフェクトさんすう教室（今天才知道有关⑨的梗可能就是出自这里，看这首歌pv的时候觉得这放到音游里绝对是个噩梦一样的存在，灵梦里模式弹幕版本的谱证明了这一点）<br>
+4.三妖精SAY YA!!!（昨天更新的曲包里面没这首歌让我感到有些意外，三妖精挺可爱的说）<br>
+总之曲包还更新了一些以前不知道歌名但是旋律记得很牢的歌。<br>
+由于太开心导致我Muse Dash玩了两天换得了一些金S的歌，以前都是只要一遍过full combo就行，管他是不是all perfect（雾<br>
+<img src="https://alanjiang1205.github.io/post-images/1633111811006.jpg" alt="" loading="lazy"></p>
+<p>今天在车万群里群友的提示下，才知道双击灵梦的阴阳鱼可以进入新世界，于是……<br>
+<img src="https://alanjiang1205.github.io/post-images/1633111922409.jpg" alt="" loading="lazy"></p>
+<p>计划通补全计划里面的ナイト・オブ・ナイツ这首歌就是我上文提到的“以前不知道歌名但是旋律记得很牢的歌”，被吊打之后找群友倒苦水，群友第一反应“还好吧？”，下一秒“哦，骑士之夜，那没事了”。只要不是一个人说难那打不过去就不是因为我是铸币（确信）<br>
+<img src="https://alanjiang1205.github.io/post-images/1633112102337.jpg" alt="" loading="lazy"><br>
+<img src="https://alanjiang1205.github.io/post-images/1633112124009.jpg" alt="" loading="lazy"></p>
+<p>Muse Dash从早上九点能玩到下午五点，有一说一，感觉还行（这计划通是越看越顺眼了啊，毕竟真没有任何一次玩Muse Dash能玩这么长时间）。</p>
+<!-- more -->
+<p>到下午七点钟，叫了隔壁几个寝室的几个玩得好的同班同学打UNO牌，怎么说呢，运气游戏：当一个人喊UNO的时候总是会出现这样或者那样的反转，要么是“+2”牌“+2”牌在那叠徒增刺激感。</p>
+<p>写得差不多了，那……就先这样吧，反正这是篇测试的日记，开摆，大摆特摆！</p>
+<!-- more -->
+<p>P.S. 封面图片来源自视频：<br>
+<code>https://www.bilibili.com/video/BV1xs411f7xz?from=search&amp;seid=10110908338575002160&amp;spm_id_from=333.337.0.0</code><br>
+01：15秒处</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://alanjiang1205.github.io/post/about/</id>
+        <link href="https://alanjiang1205.github.io/post/about/">
+        </link>
+        <updated>2021-09-28T12:31:02.000Z</updated>
+        <content type="html"><![CDATA[<p>昵称：Alan酱</p>
+<p>星座：金牛座</p>
+<p>爱好：动漫，游戏，二次元，法律相关（或许？</p>
+<p>生日：2001-4-24</p>
+<p>邮箱：ancarder9156@gmail.com</p>
+<p>爱玩的游戏：GTA5，文明六，群星，Muse Dash，冰与火之舞，东方天空璋，东方绯想天，东方非想天则，Fate/GO，明日方舟，碧蓝航线，公主连结，云图计划，LOL（纯新人，暗影岛摆大烂）</p>
+<p>最喜欢的女性动漫角色：两仪式</p>
+<p>最喜欢的男性动漫角色：黑桐干也</p>
+<p>大学在读法学生（知识产权方向），是只知道看直播和切片的A-SOUL团推（多看as，少看au，少被节奏带着走，眼不见心不烦；5-1=0，A-SOUL不是四人团！）</p>
 ]]></content>
     </entry>
 </feed>
